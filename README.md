@@ -1,2 +1,2 @@
-# testproject-license
+# project-license
 mit license
